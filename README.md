@@ -1,6 +1,6 @@
 # Video_Classification
 <h3> Deep Learning Assignment-2</h3>
-CNN + LSTM model for video classification.
+CNN + LSTM model for video classification.</br>
 • Dataset : UCF-101 Dataset
      https://www.crcv.ucf.edu/data/UCF101.phpLinks to an external site.
 
